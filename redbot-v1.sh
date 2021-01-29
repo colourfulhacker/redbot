@@ -41,7 +41,7 @@ echo ""
 echo -e " ${Cyan}                       #| A fool with a tool still a fool, Samjhe dear? |#"
 echo -e " ${PINK}                       #| Cehpoint  Bug Hunting T00ls                   |#"
 echo -e " ${Gcyan}                       #| Script Name : Red Bot                         |#"
-echo -e " ${DO}                       #|Coded by Jit Banerjee || Version: @1.0         |#"
+echo -e " ${DO}                       #|Coded by Jit Banerjee |Special cradits>>>> My student Tanvir & Riman<<<<<. | Version: @1.0         |#"
 echo ""
 echo ""
 if [ ! -d "Report/$url" ];then
