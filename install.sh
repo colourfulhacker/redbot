@@ -70,7 +70,7 @@ cd ../
 echo -e "${GREEN}#====================================================================#"
 echo -e "${RED}#                  Git Clone & Setup = WAScan                        #"
 echo -e "${GREEN}#====================================================================#"
-git clone https://github.com/m4ll0k/WAScan.git
+git clone https://github.com/AeolusTF/WAScan.git
 cd WAScan 
 pip install BeautifulSoup
 cd ../
